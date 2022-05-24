@@ -1,5 +1,7 @@
 Vietnamese Foods Recognition
 
+Name: **Phạm Nguyễn Duy Tiến**
+ID:   **19146017**
 
 **Liên kết**
 
